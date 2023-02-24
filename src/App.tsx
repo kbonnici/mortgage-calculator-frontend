@@ -1,10 +1,13 @@
 import './App.css'
-import Header from './components/header/Header'
+import Button from './components/button/Button'
+import Form from './components/form/Form'
+import Heading from './components/header/Header'
 
 function App() {
   return (
     <>
-      <Header/>
+      <Heading/>
+      <Form/>
     </>
   )
 }
