@@ -19,5 +19,5 @@
 }
 
 .header-1 {
-  @apply text-3xl
+  @apply text-3xl;
 }
